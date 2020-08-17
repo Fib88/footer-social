@@ -1,3 +1,39 @@
-.container {
-    display: flex;
+footer {
+    background-color:rgb(248, 244, 231);
+    color: rgb(173, 169, 162);
+    height: 60px;
+    width: 100%;
 }
+
+.left{
+    display:flex;
+    margin-left: 30px;
+    padding-top:20px;
+}
+
+
+
+.right {
+   display:flex;
+    justify-content:flex-end;
+    word-spacing: 10px;
+}
+
+.material-icons {
+    margin-left: 20px;
+}
+
+.fa-facebook {
+    margin-left: 20px;
+}
+
+.fa-twitter{
+    margin-left: 20px;
+}
+
+.fa-instagram{
+    margin-left: 20px;
+}
+
+
+
